@@ -29,8 +29,3 @@ src/.DS_Store
 src/main/.DS_Store
 src/main/java/.DS_Store
 src/main/java/com/.DS_Store
-
-git rm --no-cached .DS_Store && \
-git rm --no-cached src/.DS_Store src/main/.DS_Store && \
-git rm --no-cached src/main/java/.DS_Store && \
-git rm --no-cached src/main/java/com/.DS_Store
